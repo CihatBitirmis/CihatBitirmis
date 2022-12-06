@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" />
 
-<!--
-**CihatBitirmis/CihatBitirmis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Cihat👋
 
-Here are some ideas to get you started:
+### Front-End And React Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm working on Html, Css, Js and React 💻
+- 🌱 I’m currently learning 👨‍🎓
+- 👯 I want to work with successful, creative and strong developer
+- 📫 cihatbitirmis@gmail.com
+- 😄 discover what you want
+- ⚡ i love playing chess and software ♟-👩‍💻
+<br/>
+
+
