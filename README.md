@@ -9,7 +9,7 @@
 - 👯 I want to work with successful, creative and strong developer
 - 📫 cihatbitirmis@gmail.com
 - 😄 discover what you want
-- ⚡ i love playing chess and software ♟-👩‍💻
+- ⚡ I like to write software and play chess ♟-👩‍💻
 <br/>
 
 
