@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Cihat👋
 
-### Front-End | React Js
+### Front-End | React Js | React-Native
 
 - 🔭 I'm working on Html, Css, Js and React 💻
 - 🌱 I’m currently learning 👨‍🎓
